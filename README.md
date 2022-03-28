@@ -52,9 +52,10 @@ Framework REST Django (non implementé dans la version actuelle de Borgia mais n
 
   - [comparaison de Django à d&#39;autres frameworks web pour Python ](https://micropyramid.medium.com/python-django-top-frameworks-and-its-comparison-ddc9faeb1be1)
   - [explication du pattern MVT de Django](https://python.plainenglish.io/the-mvt-design-pattern-of-django-8fd47c61f582)
-- [Dev.to](https://ensameu-my.sharepoint.com/personal/josue_gauthier_ensam_eu/Documents/devt.to)
 
-- 💬 [Stackoverflow](https://stackoverflow.com/) : forum d&#39;entraide générale sur la programmation. Regarder les &quot;top&quot; réponses, qui sont validées par la communauté.
+- 💬 [Dev.to](https://ensameu-my.sharepoint.com/personal/josue_gauthier_ensam_eu/Documents/devt.to)
+
+- 💬 [Stackoverflow](https://stackoverflow.com/) : forum d'entraide générale sur la programmation. Regarder les &quot;top&quot; réponses, qui sont validées par la communauté.
 
 ## Idées dev front :
 
@@ -68,7 +69,7 @@ Framework REST Django (non implementé dans la version actuelle de Borgia mais n
 
 ## Développement front Flutter :
 
-Aucune ressource potable gratuite &amp; en français,
+Aucune ressource potable gratuite & en français,
 
 1. Très bonne mise en bouche front de Flutter :
 
@@ -78,7 +79,7 @@ Aucune ressource potable gratuite &amp; en français,
 
 🪧 Attention : backend en Laravel, mais intéressant d&#39;essayer de le coder en Django.
 
-🪧 Attention : DB Firebase c&#39;est une intégration Google ultrasimplifiée (No-SQL) non représentative de Postgresql.
+🪧 Attention : DB Firebase c'est une intégration Google ultrasimplifiée (No-SQL) non représentative de Postgresql.
 
   - 🎬 [Partie 1 : Front Flutter](https://www.youtube.com/watch?v=7dAt-JMSCVQ&amp;t=2277s)
   - 🎬 [Partie 2 : Gestion de l&#39;API](https://www.youtube.com/watch?v=GQJovou6zuE)
@@ -130,7 +131,7 @@ Docker compose x Django
 - 💻 [Android Studio](https://developer.android.com/) (développement front Flutter)
 - 💻 [IntelliJ IDEA ](https://www.jetbrains.com/fr-fr/idea/): gratuit en tant qu&#39;étudiant.
 
-- 💻 [Anaconda](https://www.anaconda.com/products/individual) (gestionnaire d&#39;environnement)
+- 💻 [Anaconda](https://www.anaconda.com/products/individual) (gestionnaire d'environnement)
 - 💻 [Postman](https://www.postman.com/) pour tester vos API
 - 💻 [Windows terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) (ou autre)
 - 💻 [Datagrip](https://www.jetbrains.com/datagrip/?source=google&amp;medium=cpc&amp;campaign=15034927831&amp;gclid=Cj0KCQjw0PWRBhDKARIsAPKHFGiE1sPryjnL_ik9OhJtLljEzsvVzmwFbFY2ZPK26er5H08jzSqOdksaAlwfEALw_wcB) pour visualiser base de données
@@ -143,7 +144,7 @@ Docker compose x Django
 
 # Avantages étudiants
 
-- 🤩 [Github student pack](https://education.github.com/pack) : Profitez en c&#39;est incroyable !
+- 🤩 [Github student pack](https://education.github.com/pack) : Profitez en c'est incroyable !
 
 # Liste des extensions Vs code trèèèèèès utiles :
 
